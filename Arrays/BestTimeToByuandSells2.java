@@ -1,4 +1,3 @@
-
 class Solution {
     public String toLowerCase(String s) {
         char[] arr = s.toCharArray();
